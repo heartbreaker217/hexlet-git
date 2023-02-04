@@ -1,4 +1,6 @@
-# Ignore bundler config.
+INFO.md
+
+## Ignore bundler config.
 /.bundle
 
 # Ignore the default SQLite database.
